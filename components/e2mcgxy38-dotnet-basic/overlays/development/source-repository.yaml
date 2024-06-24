@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: e2mcgxy38-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/e2mcgxy38-dotnet-basic
